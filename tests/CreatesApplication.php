@@ -9,6 +9,7 @@ trait CreatesApplication
 {
     /**
      * Creates the application.
+     * 123rfhigjsgphijrktpgohjkn
      */
     public function createApplication(): Application
     {
